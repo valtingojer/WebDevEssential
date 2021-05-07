@@ -1,0 +1,21 @@
+﻿cd D:\ngrok
+.\ngrok.exe http 50810 -host-header="localhost:50810"
+https://ngrok.com/
+
+
+
+
+.\ngrok.exe http localhost
+.\ngrok.exe http 58270 -host-header="localhost:58270"
+.\ngrok.exe http 8080 -host-header="localhost:8080"
+
+
+
+
+para depois -> colocas na queue, terminas todo o que estas a fazer e depois tratas
+quando puderes -> se estas a meio de alguma coisa que não demore muitos dias terinas e depois tratas e voltas ao que estavas a fazer
+agora/já -> auto explicativo :stuck_out_tongue:
+
+
+
+

@@ -1,0 +1,2 @@
+D:\Programs\junction\junction.exe C:\xampp\htdocs\site-microsites\ D:\workspace\site-microsites\
+D:\Programs\junction\junction.exe D:\UwAmp\www\site-dstsa\ D:\workspace\site-dstsa\
